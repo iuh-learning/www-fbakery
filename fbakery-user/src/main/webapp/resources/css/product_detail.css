@@ -1,0 +1,23 @@
+/* Content right */
+
+.img_prod-detail {
+    max-width: 60%;
+}
+
+
+/* Content left */
+
+.title_prod-detail {
+    font-weight: 800;
+}
+
+.left_card-prod-detail {
+    width: 36rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

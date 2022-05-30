@@ -1,0 +1,42 @@
+/* Danh Mục SP */
+
+.list_product {
+    border: none;
+    max-width: 16rem;
+    padding-left: 30px;
+}
+
+.option_product {
+    list-style: none;
+}
+
+.option_product li {
+    padding: 4px 0px;
+}
+
+.option_product a {
+    text-decoration: none;
+}
+
+.option_product a:hover {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    font-weight: 300;
+}
+
+
+/* List Product */
+
+.fw-size {
+    font-weight: 600;
+}
+
+.fcard_size {
+    max-width: 16rem;
+    margin-left: 1.5rem;
+}
+
+.fcard_size .fsize_img {
+    /* max-width: 9rem; */
+    margin-top: 6px; 
+}
